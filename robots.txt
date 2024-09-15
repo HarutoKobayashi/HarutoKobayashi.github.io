@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://harutokobayashi.github.io/sitemap.xml
