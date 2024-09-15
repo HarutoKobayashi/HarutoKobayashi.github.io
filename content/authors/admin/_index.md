@@ -57,7 +57,7 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 電気情報物理工学科 情報コース
     institution: 東北大学工学部
-    date_start: 2021-04-01
+    date_start: '2021-04-01'
     date_end: ''
     summary: |
       GPA: 3.89/4.0
