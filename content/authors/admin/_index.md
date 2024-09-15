@@ -138,7 +138,7 @@ awards:
     date: '2024-09-04'
     awarder: 第19回YANSシンポジウム
     icon: ''
-    summary: |
+    summary: |2-
       層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性．
       小林春斗，原知正，鴨田豪，横井祥．
   # - title: Blockchain Fundamentals
