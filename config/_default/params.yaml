@@ -53,3 +53,8 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+assets:
+  favicon: "<link /uploads/favicon.ico>" # e.g. "/favicon.ico"
+  favicon16x16:  "<link /uploads/favicon-16x16.png>" # e.g. "/img/favicon-16x16.png"
+  favicon32x32:  "<link /uploads/favicon-32x32.png>" # e.g. "/img/favicon-32x32.png"
