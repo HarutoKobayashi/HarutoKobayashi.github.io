@@ -56,4 +56,4 @@ features:
 
 assets:
   disableHLJS: true
-  favicon: 'favicon.ico'
+  favicon: '/static/favicon.ico'
