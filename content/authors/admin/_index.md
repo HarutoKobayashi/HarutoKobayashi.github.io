@@ -11,7 +11,6 @@ last_name: Kobayashi
 
 # Status emoji
 status:
-  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +21,7 @@ role: 坂口・乾研究室 B4
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: 東北大学自然言語処理研究グループ
-    url: https://www.example.com/
+    url: https://www.nlp.ecei.tohoku.ac.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -136,8 +135,8 @@ work:
 awards:
   - title: 層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性
     url: https://yans.anlp.jp/entry/yans2024
-    date: '2023-11-25'
-    awarder: 第19回YANSシンポジウム 奨励賞（23/187, 12.2%）
+    date: '2024-09-04'
+    awarder: 第19回YANSシンポジウム 奨励賞（23/187 12.2%）
     icon: ''
     summary: ''
   # - title: Blockchain Fundamentals
