@@ -54,6 +54,6 @@ features:
   privacy_pack:
     enable: false
 
-# assets:
-#   disableHLJS: true
-#   favicon: 'assets/favicon.ico'
+assets:
+  disableHLJS: true
+  favicon: 'favicon.ico'
