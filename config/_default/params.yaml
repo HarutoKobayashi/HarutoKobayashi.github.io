@@ -55,6 +55,4 @@ features:
     enable: false
 
 assets:
-  favicon: "<link /favicon.ico>" # e.g. "/favicon.ico"
-  favicon16x16:  "<link /img/favicon-16x16.png>" # e.g. "/img/favicon-16x16.png"
-  favicon32x32:  "<link /img/favicon-32x32.png>" # e.g. "/img/favicon-32x32.png"
+  favicon: 'assets/favicon.ico'

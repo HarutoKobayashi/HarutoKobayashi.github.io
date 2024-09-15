@@ -9,9 +9,6 @@
 [context.production.environment]
   HUGO_ENV = "production"
 
-[params]
-  favicon = "/favicon.ico"
-
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
