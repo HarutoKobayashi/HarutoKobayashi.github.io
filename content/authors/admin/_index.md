@@ -133,12 +133,12 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性
+  - title: 奨励賞（23/187 12.2%）
     url: https://yans.anlp.jp/entry/yans2024
     date: '2024-09-04'
-    awarder: 第19回YANSシンポジウム 奨励賞（23/187 12.2%）
+    awarder: 第19回YANSシンポジウム
     icon: ''
-    summary: ''
+    summary: 層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
