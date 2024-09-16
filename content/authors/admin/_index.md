@@ -59,10 +59,8 @@ education:
     institution: 東北大学工学部
     date_start: '2021-04-01'
     date_end: ''
-    summary: ''
-      # GPA:
-      # - 全体 3.83/4.0
-      # - 専門 3.89/4.0
+    summary: |
+      坂口・乾研究室所属．
 
 work:
   # - position: Director of Cloud Infrastructure
@@ -141,7 +139,7 @@ awards:
     awarder: 第19回YANSシンポジウム
     icon: ''
     summary: |2-
-      層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性．  小林春斗，原知正，鴨田豪，横井祥．
+      層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性．　小林春斗，原知正，鴨田豪，横井祥．
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
