@@ -53,6 +53,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-assets:
-  favicon: 'favicon.ico'
