@@ -65,7 +65,7 @@ education:
 work:
   - title: 層の冗長性と層同士の独立性に基づく言語モデルの層交換の成否の特徴づけ
       awarder: NLP 2025
-      date: '2025-03-**'
+      date: '2025-03-09'
       summary: 小林春斗，原知正，鴨田豪，横井祥．
   - title: 層同士の接続可能性と層が影響を与える部分空間同士の重なり度合いの関係性
     url: https://yans.anlp.jp/entry/yans2024
