@@ -155,7 +155,7 @@ awards:
     awarder: 第19回YANSシンポジウム
     icon: ''
     summary: |2-
-      "小林春斗，原知正，鴨田豪，横井祥．\n奨励賞（23/187, 12.2%）"
+      小林春斗，原知正，鴨田豪，横井祥．奨励賞（23/187, 12.2%）
   # - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
